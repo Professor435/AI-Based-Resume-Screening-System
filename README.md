@@ -66,6 +66,9 @@ Click on candidates to see detailed AI analysis
 Select multiple candidates and click "Compare Now" for side-by-side comparison
 The system demonstrates a production-ready AI resume screening workflow with beautiful, modern UI and complete interactivity!
 
+#AI #NLP #ResumeScreening #HRtech #Recruitment #MachineLearning #Python #TensorFlow #HRAutomation #TalentAcquisition #TextProcessing #CandidateRanking #FullStack #Django #React #HRSoftware #ArtificialIntelligence #ResumeParser #HiringTool #OpenSource
+
+
 for more contact (professorshami435@gmail.com)
 
 
