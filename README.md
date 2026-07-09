@@ -5,7 +5,7 @@ I've created a comprehensive, fully functional AI-Based Resume Screening System 
 🎨 Design Features
 Modern Glassmorphism UI with gradient accents (purple/pink theme)
 Dark/Light mode toggle with persistent storage
-Smooth animations including floating elements, hover effects, and transitions
+Smooth animations including floating elements, hover effects, and transitions 
 Fully responsive design for all screen sizes
 Interactive elements with micro-interactions
 ⚡ Core Functionality
